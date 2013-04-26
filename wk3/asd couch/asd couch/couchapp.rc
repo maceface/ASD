@@ -1,0 +1,11 @@
+{
+  "env": {
+    "local": {
+      "db": "http://127.0.0.1:5984/asdproject"
+    },
+    "cloudant": {
+    "local": {
+      "db": "https://hightentrackookeyesintur:Tt3CNKHEGNGTpWFjgaNxIe3S@maceface.cloudant.com/asdprojct"
+    }
+  }
+}
